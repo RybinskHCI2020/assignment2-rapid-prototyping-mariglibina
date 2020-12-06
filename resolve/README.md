@@ -18,3 +18,11 @@
 Отзывы
 
 # Раскадровки
+
+Раскадровка 1
+
+![Раскадровка 1](https://github.com/RybinskHCI2020/assignment2-rapid-prototyping-mariglibina/blob/master/resolve/image1.jpg)
+
+Раскадровка 2
+
+![Раскадровка 2](https://github.com/RybinskHCI2020/assignment2-rapid-prototyping-mariglibina/blob/master/resolve/image2.jpg )
